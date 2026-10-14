@@ -1,0 +1,4 @@
+# 선택: NVIDIA GPU 로 로컬 Whisper 가속 (.env 에 LOCAL_WHISPER_DEVICE=cuda)
+# CTranslate2 4.x 는 CUDA 12 + cuDNN 9 가 필요하다. pip 휠로 설치하면 별도 CUDA 툴킷 설치가 필요 없다.
+nvidia-cublas-cu12
+nvidia-cudnn-cu12>=9,<10

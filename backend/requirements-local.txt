@@ -1,0 +1,2 @@
+# 선택: STT_PROVIDER=local 로 로컬 Whisper를 쓸 때만 설치
+faster-whisper

@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+numpy
+soundfile
+noisereduce
+webrtcvad-wheels
+imageio-ffmpeg
+jiwer
+rank_bm25
+openai
+anthropic
+pytest
+httpx
+qrcode>=7
